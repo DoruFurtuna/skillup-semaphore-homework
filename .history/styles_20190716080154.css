@@ -1,0 +1,8 @@
+#semaphore {
+  height: 200px;
+  width: 100px;
+  background: #676767;
+  border-radius: 5px;
+  box-shadow: 5px 5px 20px -5px black;
+  cursor: pointer;
+}
